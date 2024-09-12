@@ -14,3 +14,7 @@ Welcome to the $DesignWorks$ repository! This repository shows the front-end pro
 
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+# Output
+  - ClimaCode
+https://github.com/user-attachments/assets/9e5dee84-e46c-4325-8bfb-944345338ae5
