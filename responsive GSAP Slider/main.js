@@ -91,7 +91,6 @@ prevButton.addEventListener("click", () => {
   if (currentIndex === 0) {
     prevButton.style.display = "none";
   }
-  // Button colors and animations
   nextButton.style.color = logoColors[currentIndex + 1];
   prevButton.style.color = logoColors[currentIndex - 1];
   nextButton.style.animationName = keyframes[currentIndex + 1];
