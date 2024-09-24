@@ -1,5 +1,5 @@
 # DesignWorks
-Welcome to the $DesignWorks$ repository! This repository shows the front-end project Ideas using modern web technologies. It aims to deliver a seamless and visually appealing user experience.
+Welcome to the $DesignWorks$ repository! This repository shows the front-end project Ideas using modern web technologies. It aims to deliver a seamless and visually appealing user experience using modern technologies.
 <br>
 # Features
   - **Responsive Design**: Ensures optimal viewing experience across a wide range of devices.
