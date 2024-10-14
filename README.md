@@ -1,4 +1,4 @@
-# DesignWorks 
+#🌟 DesignWorks 
 Welcome to the $DesignWorks$ repository! This repository shows the front-end project Ideas using modern web technologies. It aims to deliver a seamless and visually appealing user experience using modern technologies.
 <br>
 # ✨ Features
