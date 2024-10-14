@@ -7,7 +7,7 @@ Welcome to the $DesignWorks$ repository! This repository shows the front-end pro
   - **⚡ Performance Optimized**: Fast loading and smooth user experience.
   - **🌐 Cross-Browser Compatibility**: Works well on all major browsers.
 
-# Technologies Used
+# 🔧 Technologies Used
 - **📋 HTML5**: For structuring the web content.
 - **🎨 CSS3**: For styling the web pages.
 - **🖱️ JavaScript**: For adding interactivity.
