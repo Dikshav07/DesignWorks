@@ -3,7 +3,7 @@ Welcome to the $DesignWorks$ repository! This repository shows the front-end pro
 <br>
 # Features
   - **Responsive Design**: Ensures optimal viewing experience across a wide range of devices.
-  - **Interactive UI**: Engaging user interactions and animations.
+  - **🧑‍🎨 Interactive UI**: Engaging user interactions and animations.
   - **⚡ Performance Optimized**: Fast loading and smooth user experience.
   - **🌐 Cross-Browser Compatibility**: Works well on all major browsers.
 
