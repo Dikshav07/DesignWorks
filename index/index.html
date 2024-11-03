@@ -89,11 +89,11 @@
         composer = new EffectComposer(renderer);
         composer.addPass(new RenderPass(scene, camera));
 
-        // BloomPass
+       
         bloomPass = new UnrealBloomPass(new THREE.Vector2(window.innerWidth, window.innerHeight), guiParams.bloomStrength, guiParams.bloomRadius, guiParams.bloomThreshold);
         composer.addPass(bloomPass);
 
-        // DotScreenPass
+        
         dotScreenPass = new DotScreenPass(new THREE.Vector2(0, 0), guiParams.dotScale);
         dotScreenPass.enabled = true;
         composer.addPass(dotScreenPass);
