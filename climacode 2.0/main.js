@@ -26,11 +26,11 @@ rotateDiv.style.background = gradient;
 var toggles = document.querySelectorAll('.toggle');
 var tempElement = document.querySelector('.temp');
 
-let isAnimating = false; // Add flag to indicate if animation is active
+let isAnimating = false; 
 
 toggles.forEach(function(toggle) {
   toggle.addEventListener('click', function() {
-    if (this.classList.contains('active') || isAnimating) { // Check if animation is active
+    if (this.classList.contains('active') || isAnimating) { 
       return;
     }
     toggles.forEach(function(toggle) {
